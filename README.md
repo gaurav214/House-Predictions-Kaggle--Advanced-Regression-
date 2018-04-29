@@ -8,3 +8,21 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 # Practice Skills
  1. Creative feature engineering 
  2. Advanced regression techniques like random forest and gradient boosting
+
+# Flow of Approach
+ 1. Importing Dependencies
+ 2. Loading and Inspecting Dataset
+ 3. Data Cleaning
+ 4. Preparing the Data
+ 5. Feature Creation
+ 6. Feature Scaling
+ 7. Encoding Categorical variables
+ 8. Regression Model Creation
+ 9. Model optimization
+ 
+ # Different Models Used:
+  1. RandomForestRegressor
+  2. RandomForestRegressor(Grid Search)
+  3. SupportVectorRegressor
+  
+  ***Currently Adding More models to achive highest accuracy***
