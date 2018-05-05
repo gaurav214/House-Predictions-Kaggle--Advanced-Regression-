@@ -31,6 +31,4 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 1. https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 2. https://www.kaggle.com/erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda
 3. https://brownmath.com/stat/shape.htm
-4. https://www.kaggle.com/akosciansky/house-price-predictions-complete-walkthrough
-5. https://www.kaggle.com/erick5/predicting-house-prices-with-machine-learning
 6. https://www.youtube.com/watch?v=XdM6ER7zTLk
