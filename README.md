@@ -19,6 +19,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
  7. Encoding Categorical variables
  8. Regression Model Creation
  9. Model optimization
+ 10. Repeating 8 and 9 for different models
  
  # Different Models Used:
   1. RandomForestRegressor
